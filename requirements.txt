@@ -87,6 +87,7 @@ google-auth-oauthlib==0.4.6
 google-pasta==0.2.0
 greenlet @ file:///C:/ci/greenlet_1628888275363/work
 grpcio==1.51.1
+gunicorn
 h5py @ file:///C:/ci/h5py_1659089875384/work
 HeapDict @ file:///Users/ktietz/demo/mc3/conda-bld/heapdict_1630598515714/work
 holoviews @ file:///C:/Windows/TEMP/abs_fb9d2988-9681-46b6-b9ab-190cfecd15d7uinyq_4z/croots/recipe/holoviews_1658171511842/work
