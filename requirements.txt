@@ -349,7 +349,3 @@ yapf                          0.31.0
 zict                          2.1.0
 zipp                          3.8.0
 zope.interface                5.4.0
-!pip install pip==22.3.1
-Collecting pip==22.3.1
-  Using cached pip-22.3.1-py3-none-any.whl (2.1 MB)
-ERROR: To modify pip, please 
